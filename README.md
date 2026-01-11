@@ -32,4 +32,4 @@ The model successfully captured the weekly seasonality inherent in the data.
 3. The script will automatically generate the dataset, train the model, and save the forecast CSV.
 
 ---
-*Submitted by Aneesh Kankati*
+*Submitted by  Kankati Aneesh*
